@@ -29,7 +29,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece1 = piece1 + 1
+piece1 = piece1 + 2
 }
 }
 }
@@ -52,7 +52,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece2 = piece2 + 1
+piece2 = piece2 + 2
 }
 }
 }
@@ -75,7 +75,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece3 = piece3 + 1
+piece3 = piece3 + 2
 }
 }
 }
@@ -98,7 +98,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece4 = piece4 + 1
+piece4 = piece4 + 2
 }
 }
 }
@@ -112,7 +112,7 @@ mine.setAttribute("r", 20)
 mine.setAttribute("fill", "orange")
 canvas.appendChild(mine)
 turn = turn + 1
-piece5 = piece5 + 1
+piece5 = piece5 + 2
 }else if (turn == 1){
 var mine = document.createElementNS(namespace, "rect")
 mine.setAttribute("x", 173)
@@ -121,7 +121,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece5 = piece5 + 1
+piece5 = piece5 + 2
 }
 }
 }
@@ -144,7 +144,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece6 = piece6 + 1
+piece6 = piece6 + 2
 }
 }
 }
@@ -167,7 +167,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece7 = piece7 + 1
+piece7 = piece7 + 2
 }
 }
 }
@@ -190,7 +190,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece8 = piece8 + 1
+piece8 = piece8 + 2
 }
 }
 }
@@ -213,7 +213,7 @@ mine.setAttribute("width", 20)
 mine.setAttribute("height", 20)
 canvas.appendChild(mine)
 turn = turn - 1
-piece9 = piece9 + 1
+piece9 = piece9 + 2
 }
 }
 }
