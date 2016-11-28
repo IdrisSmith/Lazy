@@ -10,6 +10,7 @@ var piece6 = 0
 var piece7 = 0
 var piece8 = 0
 var piece9 = 0
+
 function function1(){
 if(piece1 == 0){
 if (turn == 0){
